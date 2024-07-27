@@ -21,7 +21,7 @@ Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson cur
 
 |![ Sketchnote by [(@sketchthedocs)](https://sketchthedocs.dev) ](./sketchnotes/00-Title.png)|
 |:---:|
-| Data Science For Beginners - _Sketchnote by [@nitya](https://twitter.com/nitya)_ |
+| Data Science For Beginners - _Sketchnote by [@Elviana](https://twitter.com/nitya)_ |
 
 ## Announcement - New Curriculum on Generative AI was just released!
 
